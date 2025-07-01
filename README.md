@@ -63,14 +63,3 @@ pip install matplotlib
 ```bash
 python main.py
 ```
-
----
-
-## ⚡ Example Usage
-
-1️⃣ **Enter a host** (e.g. `google.com`)  
-2️⃣ **Enter number of pings** (e.g. `5`)  
-3️⃣ **Click 🚀 Start Ping**
-
-✅ The tool will display the ping output, show the resolved hostname, packet loss, and generate a live plot.  
-💾 Results will be saved in `ping_data.csv`.
