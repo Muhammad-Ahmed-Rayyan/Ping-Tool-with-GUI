@@ -24,10 +24,10 @@ Perfect for **network diagnostics, quick connectivity checks, or latency monitor
 
 ## ✨ Features
 
--🌐 **Host Input & Custom Ping Count**  
--📈 **Real-time Matplotlib Plot embedded in the GUI**  
--💾 **Exports data to `ping_data.csv` for future analysis**  
--🔍 **Displays resolved hostnames & packet loss stats**  
+- 🌐 **Host Input & Custom Ping Count**  
+- 📈 **Real-time Matplotlib Plot embedded in the GUI**  
+- 💾 **Exports data to `ping_data.csv` for future analysis**  
+- 🔍 **Displays resolved hostnames & packet loss stats**  
 
 ---
 
@@ -55,3 +55,22 @@ Python 3.8+
 
 ```bash
 pip install matplotlib
+```
+
+---
+
+## 🚀 Run the app
+```bash
+python main.py
+```
+
+---
+
+## ⚡ Example Usage
+
+1️⃣ **Enter a host** (e.g. `google.com`)  
+2️⃣ **Enter number of pings** (e.g. `5`)  
+3️⃣ **Click 🚀 Start Ping**
+
+✅ The tool will display the ping output, show the resolved hostname, packet loss, and generate a live plot.  
+💾 Results will be saved in `ping_data.csv`.
