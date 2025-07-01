@@ -7,6 +7,8 @@
 [![Last Commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/Ping-Tool-with-GUI)](https://github.com/Muhammad-Ahmed-Rayyan/Ping-Tool-with-GUI/commits/main)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](#)
 
+</div>
+
 ---
 
 ## 🚀 Overview
