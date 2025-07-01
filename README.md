@@ -2,10 +2,8 @@
 
 # 🎯 Elegant Ping Tool with GUI
 
-[![Python](https://img.shields.io/badge/Python-100%25-blue)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-green)](#)
 [![Last Commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/Ping-Tool-with-GUI)](https://github.com/Muhammad-Ahmed-Rayyan/Ping-Tool-with-GUI/commits/main)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](#)
+[![Python](https://img.shields.io/badge/Python-100%25-blue)](https://www.python.org/)
 
 </div>
 
@@ -26,10 +24,10 @@ Perfect for **network diagnostics, quick connectivity checks, or latency monitor
 
 ## ✨ Features
 
-🌐 **Host Input & Custom Ping Count**  
-📈 **Real-time Matplotlib Plot embedded in the GUI**  
-💾 **Exports data to `ping_data.csv` for future analysis**  
-🔍 **Displays resolved hostnames & packet loss stats**  
+-🌐 **Host Input & Custom Ping Count**  
+-📈 **Real-time Matplotlib Plot embedded in the GUI**  
+-💾 **Exports data to `ping_data.csv` for future analysis**  
+-🔍 **Displays resolved hostnames & packet loss stats**  
 
 ---
 
