@@ -4,6 +4,7 @@
 
 [![Last Commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/Ping-Tool-with-GUI)](https://github.com/Muhammad-Ahmed-Rayyan/Ping-Tool-with-GUI/commits/main)
 [![Python](https://img.shields.io/badge/Python-100%25-blue)](https://www.python.org/)
+![languages](https://img.shields.io/github/languages/count/Muhammad-Ahmed-Rayyan/Ping-Tool-with-GUI)
 
 </div>
 
