@@ -64,3 +64,11 @@ pip install matplotlib
 ```bash
 python main.py
 ```
+
+---
+
+<div align="center">
+
+⭐ Appreciate this project? Star it on GitHub to show your love!
+
+</div>
